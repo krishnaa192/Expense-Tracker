@@ -1,6 +1,6 @@
 # Expense Tracker
 
-<img src="accounts/static/images/expense_logo.png" alt="Expense Tracker" width="200px" height="200px"/>
+
 
 Expense Manager is simple, stable and feature-rich web app that is designed for manage your daily bills.
 
